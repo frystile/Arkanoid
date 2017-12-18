@@ -1,0 +1,13 @@
+﻿  Arkanoid.cpp
+c:\users\евгений\documents\visual studio 2015\projects\arkanoid\arkanoid\arkanoid.cpp(166): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\евгений\documents\visual studio 2015\projects\arkanoid\arkanoid\arkanoid.cpp(175): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+c:\users\евгений\documents\visual studio 2015\projects\arkanoid\arkanoid\arkanoid.cpp(177): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+c:\users\евгений\documents\visual studio 2015\projects\arkanoid\arkanoid\arkanoid.cpp(190): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+c:\users\евгений\documents\visual studio 2015\projects\arkanoid\arkanoid\arkanoid.cpp(201): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\евгений\documents\visual studio 2015\projects\arkanoid\arkanoid\arkanoid.cpp(81): warning C4101: ps: неиспользованная локальная переменная
+c:\users\евгений\documents\visual studio 2015\projects\arkanoid\arkanoid\arkanoid.cpp(317): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\евгений\documents\visual studio 2015\projects\arkanoid\arkanoid\arkanoid.cpp(372): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\евгений\documents\visual studio 2015\projects\arkanoid\arkanoid\arkanoid.cpp(403): warning C4244: инициализация: преобразование "LONG" в "float", возможна потеря данных
+c:\users\евгений\documents\visual studio 2015\projects\arkanoid\arkanoid\arkanoid.cpp(616): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  Arkanoid.vcxproj -> C:\Users\Евгений\Documents\Visual Studio 2015\Projects\Arkanoid\Debug\Arkanoid.exe
+  Arkanoid.vcxproj -> C:\Users\Евгений\Documents\Visual Studio 2015\Projects\Arkanoid\Debug\Arkanoid.pdb (Full PDB)
